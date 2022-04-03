@@ -40,7 +40,7 @@
 	
 
 	<div class="container">
-	<h5 class="text-center">The Deveploer all Rights by @@ <span class="badge badge-success">SURA KUSALA</span></h5>
+	<h5 class="text-center">The Deveploer all Rights by @@ <span class="badge badge-success">Sai Venkatesh</span></h5>
 	</div>
 </body>
 </html>
